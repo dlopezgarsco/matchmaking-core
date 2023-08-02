@@ -14,8 +14,5 @@
 	<version>${core.version}</version>
 	<name>core</name>
 	<description>Core</description>
-	<properties>
-		<java.version>17</java.version>
-	</properties>
 
 </project>
