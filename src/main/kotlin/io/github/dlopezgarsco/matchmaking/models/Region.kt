@@ -1,5 +1,5 @@
 package io.github.dlopezgarsco.matchmaking.models
 
-data class Attendee(
-    val name: String
+data class Region(
+  val country: Country
 )
