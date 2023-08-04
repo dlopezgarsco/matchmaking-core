@@ -15,4 +15,12 @@
     <name>core</name>
     <description>Core</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.jetbrains.exposed</groupId>
+            <artifactId>exposed-core</artifactId>
+            <version>0.40.1</version>
+        </dependency>
+    </dependencies>
+
 </project>
